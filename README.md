@@ -34,5 +34,5 @@ Once you paste it, it's on their servers. This violates GDPR, SOC2, and NDAs.
 ### Method 2: Run Locally (For Developers)
 1. Clone the repo
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/privacy-shield.git](https://github.com/BhlHk/privacy-shield.git)
+   git clone [https://github.com/BhlHk/privacy-shield.git](https://github.com/BhlHk/privacy-shield.git)
    cd privacy-shield
